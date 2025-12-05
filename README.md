@@ -58,3 +58,10 @@ docker-compose up -d
 
 
 ### screenhsots
+
+<img width="943" height="945" alt="Image" src="https://github.com/user-attachments/assets/7e2b0abc-6b5d-46c9-8925-83c4bd405158" />
+<img width="1919" height="566" alt="Image" src="https://github.com/user-attachments/assets/fa9c9e3d-c018-47ca-bb5c-7b7894d9ba70" />
+<img width="1916" height="458" alt="Image" src="https://github.com/user-attachments/assets/5e9a8deb-d8d0-47d0-b1a5-714434978f4c" />
+<img width="1918" height="944" alt="Image" src="https://github.com/user-attachments/assets/ff79d37b-24b8-42df-a8d9-e17a44d45654" />
+<img width="960" height="1035" alt="Image" src="https://github.com/user-attachments/assets/7c5383f6-6aaf-4771-80db-02cdc6de6641" />
+<img width="957" height="941" alt="Image" src="https://github.com/user-attachments/assets/eb055bae-ad91-44c4-9819-157625e3b360" />
